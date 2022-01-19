@@ -1,0 +1,34 @@
+// Common CSS style
+.zgb__container {
+    margin-bottom: 15px;
+}
+
+.zgb__devices__wrapper {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    p{
+        margin-bottom: 5px !important;
+    }
+}
+
+.devices__list {
+    margin-left: 15px;
+}
+
+.devices__list span {
+    font-size: 15px;
+    cursor: pointer;
+}
+  
+.zgbTabContent, .zgbTabMargin {
+    display: none;
+}
+
+.zgbTabContent, .zgbTabMargin {
+    margin-top: 5px;
+}
+
+.bold-weight {
+    font-weight: 500;
+}
